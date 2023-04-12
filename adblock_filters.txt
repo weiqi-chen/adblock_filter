@@ -1,1 +1,1 @@
-ditu.baidu.com##message-center-panel
+ditu.baidu.com###message-center-panel
