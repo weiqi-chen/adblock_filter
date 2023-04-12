@@ -1,1 +1,8 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified: 2023年4月12日13点14分
+! Expires: 365 days (update frequency)
+! Homepage:
+!
 ditu.baidu.com###message-center-panel
