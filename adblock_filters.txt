@@ -5,4 +5,5 @@
 ! Expires: 3 days (update frequency)
 ! Homepage:
 !
+bilibili.com##.desktop-download-tip
 ditu.baidu.com###message-center-panel
